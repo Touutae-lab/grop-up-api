@@ -1,1 +1,1 @@
-# API for GROP UP project
+# grop-up
