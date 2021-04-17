@@ -49,4 +49,4 @@ class EventData(Resource):
 api.add_resource(EventData,"/event")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='192.168.137.1', port='5000', debug=True) # Change IP to your pc IP
